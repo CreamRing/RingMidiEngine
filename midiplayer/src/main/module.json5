@@ -1,0 +1,9 @@
+{
+  "module": {
+    "name": "midiplayer",
+    "type": "har",
+    "deviceTypes": [
+      "default"
+    ]
+  }
+}
